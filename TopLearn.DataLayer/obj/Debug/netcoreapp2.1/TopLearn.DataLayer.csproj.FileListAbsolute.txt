@@ -1,0 +1,13 @@
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.deps.json
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.runtimeconfig.json
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.runtimeconfig.dev.json
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\bin\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.csproj.AssemblyReference.cache
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.AssemblyInfoInputs.cache
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.AssemblyInfo.cs
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.csproj.CoreCompileInputs.cache
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.dll
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.pdb
+D:\Programming\Desktop\TopLearn\TopLearn\TopLearn.DataLayer\obj\Debug\netcoreapp2.1\TopLearn.DataLayer.genruntimeconfig.cache
