@@ -115,6 +115,32 @@ namespace TopLearn.Core.Services
 
             return sideBar;
         }
+
+        public UsersForAdminViewModel GetUsers(int pageId = 1, string filterEmail = "", string username = "")
+        {
+            IQueryable<User> result = _context.Users;
+
+            if(!string.IsNullOrEmpty(filterEmail))
+            {
+                result = result.Where(i => i.Email.Contains(filterEmail));
+            }
+
+            if(!string.IsNullOrEmpty(username))
+            {
+                result = result.Where(i => i.UserName.Contains(username));
+            }
+
+            //Show Item In Page
+            int take = 20;
+
+            int skip = (pageId - 1) * take;
+
+            UsersForAdminViewModel list = new UsersForAdminViewModel();
+            list.CurrentPage = pageId;
+            list.PageCount = result.Count() / take;
+            list.Users = result.OrderBy(i => i.RegisterDate).Skip(skip).Take(take).ToList();
+            return list;
+        }
         #endregion
 
         #region Wallet
@@ -241,7 +267,9 @@ namespace TopLearn.Core.Services
             return user.UserId;
         }
 
-       
+      
+
+
 
 
         #endregion

@@ -8532,15 +8532,18 @@
         "Templates/Identity/SupportPages._ViewImports.cshtml",
         "Templates/Identity/SupportPages._ViewStart.cshtml",
         "Templates/Identity/_LoginPartial.cshtml",
+        "Templates/Identity/wwwroot/AdminContent/js/site.js",
+        "Templates/Identity/wwwroot/AdminContent/js/site.min.js",
         "Templates/Identity/wwwroot/css/site.css",
         "Templates/Identity/wwwroot/css/site.min.css",
         "Templates/Identity/wwwroot/favicon.ico",
         "Templates/Identity/wwwroot/images/banner1.svg",
         "Templates/Identity/wwwroot/images/banner2.svg",
         "Templates/Identity/wwwroot/images/banner3.svg",
-        "Templates/Identity/wwwroot/AdminContent/js/site.js",
-        "Templates/Identity/wwwroot/AdminContent/js/site.min.js",
         "Templates/Identity/wwwroot/lib/bootstrap/LICENSE",
+        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/bootstrap.js",
+        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/bootstrap.min.js",
+        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/npm.js",
         "Templates/Identity/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css",
         "Templates/Identity/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map",
         "Templates/Identity/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css",
@@ -8554,9 +8557,6 @@
         "Templates/Identity/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf",
         "Templates/Identity/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff",
         "Templates/Identity/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2",
-        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/bootstrap.js",
-        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/bootstrap.min.js",
-        "Templates/Identity/wwwroot/lib/bootstrap/dist/AdminContent/js/npm.js",
         "Templates/Identity/wwwroot/lib/jquery-validation-unobtrusive/.bower.json",
         "Templates/Identity/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
         "Templates/Identity/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
@@ -13877,7 +13877,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }

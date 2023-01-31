@@ -13,7 +13,7 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1028678065,
+        "HashCode": 1122718474,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.AnchorTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -212,7 +212,7 @@
         }
       },
       {
-        "HashCode": 1604779979,
+        "HashCode": 690327325,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.CacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -332,7 +332,7 @@
         }
       },
       {
-        "HashCode": 893757485,
+        "HashCode": -1694673992,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.DistributedCacheTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -457,7 +457,7 @@
         }
       },
       {
-        "HashCode": -332871492,
+        "HashCode": 257897349,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.EnvironmentTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -505,7 +505,7 @@
         }
       },
       {
-        "HashCode": 1049052618,
+        "HashCode": 1510186822,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormActionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -924,7 +924,7 @@
         }
       },
       {
-        "HashCode": -1148070118,
+        "HashCode": -147510729,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.FormTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1028,7 +1028,7 @@
         }
       },
       {
-        "HashCode": -1379050275,
+        "HashCode": 1721593779,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ImageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1076,7 +1076,7 @@
         }
       },
       {
-        "HashCode": -2107217553,
+        "HashCode": 1748725764,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.InputTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1148,7 +1148,7 @@
         }
       },
       {
-        "HashCode": -1937461069,
+        "HashCode": 1972840876,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LabelTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1183,7 +1183,7 @@
         }
       },
       {
-        "HashCode": 371282804,
+        "HashCode": -337441336,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.LinkTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1372,7 +1372,7 @@
         }
       },
       {
-        "HashCode": 1595219142,
+        "HashCode": -1418998516,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.OptionTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1402,7 +1402,7 @@
         }
       },
       {
-        "HashCode": 61476285,
+        "HashCode": 495287715,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.PartialTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1467,7 +1467,7 @@
         }
       },
       {
-        "HashCode": -1268231863,
+        "HashCode": 863595871,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ScriptTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1613,7 +1613,7 @@
         }
       },
       {
-        "HashCode": -1177657269,
+        "HashCode": 1699663219,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.SelectTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1674,7 +1674,7 @@
         }
       },
       {
-        "HashCode": -1921747248,
+        "HashCode": -567389824,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.TextAreaTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1718,7 +1718,7 @@
         }
       },
       {
-        "HashCode": -407379163,
+        "HashCode": 239690050,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationMessageTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1752,7 +1752,7 @@
         }
       },
       {
-        "HashCode": 487081578,
+        "HashCode": -1246178608,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.Mvc.TagHelpers.ValidationSummaryTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.Mvc.TagHelpers",
@@ -1788,7 +1788,7 @@
         }
       },
       {
-        "HashCode": -1533128629,
+        "HashCode": 1777335728,
         "Kind": "ITagHelper",
         "Name": "Microsoft.AspNetCore.SpaServices.Prerendering.PrerenderTagHelper",
         "AssemblyName": "Microsoft.AspNetCore.SpaServices",
@@ -1855,38 +1855,8 @@
   "RootNamespace": "TopLearn.Web",
   "Documents": [
     {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Home\\OnlinePayment.cshtml",
-      "TargetPath": "Views\\Home\\OnlinePayment.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\Login.cshtml",
-      "TargetPath": "Views\\Account\\Login.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\_ViewStart.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\_ViewStart.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\Register.cshtml",
-      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Admin\\Index.cshtml",
+      "TargetPath": "Pages\\Admin\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -1895,93 +1865,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_ForgotPassword.cshtml",
-      "TargetPath": "Views\\Shared\\_ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\_ViewImports.cshtml",
-      "TargetPath": "Pages\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ForgotPassword.cshtml",
-      "TargetPath": "Views\\Account\\ForgotPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ResetPassword.cshtml",
-      "TargetPath": "Views\\Account\\ResetPassword.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_Footer.cshtml",
-      "TargetPath": "Views\\Shared\\_Footer.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_ActiveEmail.cshtml",
-      "TargetPath": "Views\\Shared\\_ActiveEmail.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\SuccessRegister.cshtml",
-      "TargetPath": "Views\\Account\\SuccessRegister.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Admin\\Users\\Index.cshtml",
-      "TargetPath": "Pages\\Admin\\Users\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_Layout.cshtml",
-      "TargetPath": "Views\\Shared\\_Layout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_MetaTags.cshtml",
-      "TargetPath": "Views\\Shared\\_MetaTags.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ActiveAccount.cshtml",
-      "TargetPath": "Views\\Account\\ActiveAccount.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\_ViewImports.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_DefaultLayout.cshtml",
-      "TargetPath": "Views\\Shared\\_DefaultLayout.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Admin\\Index.cshtml",
-      "TargetPath": "Pages\\Admin\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Home\\Index.cshtml",
-      "TargetPath": "Views\\Home\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -1990,13 +1875,83 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\_ViewImports.cshtml",
-      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\Home\\EditProfile.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\ChangePassword.cshtml",
-      "TargetPath": "Areas\\UserPanel\\Views\\Home\\ChangePassword.cshtml",
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\Login.cshtml",
+      "TargetPath": "Views\\Account\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\SuccessRegister.cshtml",
+      "TargetPath": "Views\\Account\\SuccessRegister.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\Register.cshtml",
+      "TargetPath": "Views\\Account\\Register.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\Wallet\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Admin\\Users\\Index.cshtml",
+      "TargetPath": "Pages\\Admin\\Users\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_ForgotPassword.cshtml",
+      "TargetPath": "Views\\Shared\\_ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_ActiveEmail.cshtml",
+      "TargetPath": "Views\\Shared\\_ActiveEmail.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Home\\OnlinePayment.cshtml",
+      "TargetPath": "Views\\Home\\OnlinePayment.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ActiveAccount.cshtml",
+      "TargetPath": "Views\\Account\\ActiveAccount.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Shared\\_AdminLayout.cshtml",
+      "TargetPath": "Pages\\Shared\\_AdminLayout.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -2005,8 +1960,53 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Pages\\Shared\\_AdminLayout.cshtml",
-      "TargetPath": "Pages\\Shared\\_AdminLayout.cshtml",
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_DefaultLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_DefaultLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\ChangePassword.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\Home\\ChangePassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_MetaTags.cshtml",
+      "TargetPath": "Views\\Shared\\_MetaTags.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ForgotPassword.cshtml",
+      "TargetPath": "Views\\Account\\ForgotPassword.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+      "TargetPath": "Areas\\UserPanel\\Views\\Shared\\_SideBar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Shared\\_Footer.cshtml",
+      "TargetPath": "Views\\Shared\\_Footer.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Programming\\Desktop\\TopLearn\\TopLearn\\TopLearn.Web\\Views\\Account\\ResetPassword.cshtml",
+      "TargetPath": "Views\\Account\\ResetPassword.cshtml",
       "FileKind": "mvc"
     }
   ],
